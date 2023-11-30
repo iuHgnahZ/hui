@@ -1,0 +1,14 @@
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\BasicDemo_CS.exe
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\BasicDemo_CS.pdb
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\en-US\BasicDemo_CS.resources.dll
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\zh-CHS\BasicDemo_CS.resources.dll
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Form1.resources
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Properties.Resources.resources
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Form1.en-US.resources
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Form1.zh-CHS.resources
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.csproj.GenerateResource.cache
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.csproj.CoreCompileInputs.cache
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\en-US\BasicDemo_CS.resources.dll
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\zh-CHS\BasicDemo_CS.resources.dll
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo_CS.exe
+E:\C#Project\CCD_Project\MVS\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo_CS.pdb
